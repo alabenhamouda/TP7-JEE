@@ -1,10 +1,10 @@
-package com.djamware.springmvc;
+package com.example.tp5;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class SpringmvcApplicationTests {
+class Tp5ApplicationTests {
 
 	@Test
 	void contextLoads() {

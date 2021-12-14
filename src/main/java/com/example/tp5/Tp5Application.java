@@ -1,13 +1,13 @@
-package com.djamware.springmvc;
+package com.example.tp5;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SpringmvcApplication {
+public class Tp5Application {
 
 	public static void main(String[] args) {
-		SpringApplication.run(SpringmvcApplication.class, args);
+		SpringApplication.run(Tp5Application.class, args);
 	}
 
 }
